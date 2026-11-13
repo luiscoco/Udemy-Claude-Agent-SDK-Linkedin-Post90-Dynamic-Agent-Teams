@@ -1,0 +1,14 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "generalist",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "generalist",
+    "elapsed_seconds": 0.00018
+  }
+]

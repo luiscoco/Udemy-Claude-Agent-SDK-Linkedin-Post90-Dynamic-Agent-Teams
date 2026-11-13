@@ -1,0 +1,31 @@
+{
+  "required": [
+    "research",
+    "writing"
+  ],
+  "budget": 7,
+  "registry": [
+    {
+      "id": "researcher",
+      "skills": [
+        "research"
+      ],
+      "cost": 3
+    },
+    {
+      "id": "writer",
+      "skills": [
+        "writing"
+      ],
+      "cost": 3
+    },
+    {
+      "id": "generalist",
+      "skills": [
+        "research",
+        "writing"
+      ],
+      "cost": 7
+    }
+  ]
+}

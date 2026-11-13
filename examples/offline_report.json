@@ -1,0 +1,17 @@
+{
+  "lesson": 89,
+  "application": "Capability-Based Team Builder",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "status": "covered",
+    "team": [
+      "generalist"
+    ],
+    "cost": 7,
+    "deliverables": {
+      "generalist": "Prepared deliverable for research, writing"
+    }
+  },
+  "measured_cost_usd": null
+}

@@ -1,0 +1,16 @@
+{
+  "lesson": 89,
+  "title": "Dynamic Agent Teams",
+  "application": "Capability-Based Team Builder",
+  "purpose": "Select a minimal affordable team that covers required skills, then validate deliverable ownership before execution.",
+  "exercise": "Remove the generalist or lower the budget. Compare the minimal-team-size objective with a lowest-total-cost objective.",
+  "source_topics": [
+    "00-Arquitectura de equipos de agentes dinámicos.png",
+    "01-Analyze-Task-Requirements.png",
+    "02-Maintain-an-Agent-Registry.png",
+    "03-Select-Complementary-Agents.png",
+    "04-Assign-Roles-and-Handoffs.png",
+    "05-Adapt-the-Team-Safely.png",
+    "06-Validate-the-Combined-Result.png"
+  ]
+}
